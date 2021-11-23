@@ -112,3 +112,8 @@ Then change the database connection in C:\wildfly\standalone\configuration\dcm4c
 ```
 >C:\wildfly\bin\standalone.bat -c dcm4chee-arc.xml [Windows]
 ```
+After command completed follow the following link 
+(http://127.0.0.1:9990/console/index.html)
+
+(http://localhost:8080/dcm4chee-arc/ui2)
+
