@@ -13,6 +13,7 @@ You can find JDK **jdk-11.0.12_windows-x64_bin.exe** file in **dcm4chee-arc-5.24
 ### Step 3 
 **Create database with name pacsdb**. 
 and Import SQL file **pacsdb.sql** into it,You can find SQL file  **pacsdb.sql** file in **dcm4chee-arc-5.24.2-installation** directory.
+You may need to install jdbc driver mysql. you can find **mysql-installer-web-community-8.0.27.1.msi** in **dcm4chee-arc-5.24.2-installation**
 
 ### Step 4 
 **Install Apache DS 2**. 
@@ -94,3 +95,20 @@ dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/default-ui-confi
 dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/add-vendor-data.ldif
 ```
 
+### Step 12 
+Now Copy **wildfly** directory from **dcm4chee-arc-5.24.2-installation** and place it in **C:**
+Then change the database connection in C:\wildfly\standalone\configuration\dcm4chee-arc.xml in the following lines if req
+```
+<datasource jndi-name="java:/PacsDS" pool-name="PacsDS" statistics-enabled="true">
+                    <connection-url>jdbc:mysql://localhost:3306/sandbox_pacsdb</connection-url>
+                    <driver>mysql</driver>
+                    <security>
+                        <user-name>root</user-name>
+                    </security>
+</datasource>
+```
+### Step 13 
+ run the follwing command inside wildfly\bin\
+```
+>C:\wildfly\bin\standalone.bat -c dcm4chee-arc.xml [Windows]
+```
