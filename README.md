@@ -1,2 +1,2 @@
 # dcm4chee-arc-5.24.2
-This repor
+This repo is for installation of dcm4che
