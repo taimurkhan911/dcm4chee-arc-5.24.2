@@ -117,3 +117,20 @@ After command completed follow the following link
 
 (http://localhost:8080/dcm4chee-arc/ui2)
 
+### Step 14 
+http://127.0.0.1:9990/console/index.html#deployments
+goto the above page and import the following 2 files in it.
+
+dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql\deploy
+
+### Step 15
+Install ApacheTomCat and oviyam2.
+- Run the dcm4chee-arc-5.24.2-installation\apache-tomcat-8.5.71.exe to install the TomCat
+- Copy all files inside **dcm4chee-arc-5.24.2-installation\Oviyam-2.8.1-bin\tomcat** and paste inside C:\Program Files\Apache Software Foundation\Tomcat 8.5\lib 
+- Copy file inside **dcm4chee-arc-5.24.2-installation\Oviyam-2.8.1-bin\Oviyam-2.8.1-bin\oviyam2.war** and paste inside C:\Program Files\Apache Software Foundation\Tomcat 8.5\webapps
+-  Copy file tomcat-users.xml and server.xml **dcm4chee-arc-5.24.2-installation\Oviyam-2.8.1-bin** and  and paste inside C:\Program Files\Apache Software Foundation\Tomcat 8.5\conf
+
+
+.![image](/screenshots/oviyam2-config.png)
+
+
