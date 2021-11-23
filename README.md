@@ -85,4 +85,12 @@ Browser Options:
 ```
 
 ### Step 11 
+Now import the following LDIF files via **Apache Directory Studio** into the connection you have created earlier in **step 6**
+```
+dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/init-baseDN.ldif
+dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/init-config.ldif
+dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/default-config.ldif
+dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/default-ui-config.ldif
+dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/add-vendor-data.ldif
+```
 
