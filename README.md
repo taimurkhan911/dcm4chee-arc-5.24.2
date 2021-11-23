@@ -49,13 +49,14 @@ One may modify the default Directory Base DN dc=example,dc=com by changing the v
 ads-partitionsuffix: dc=dcm4che,dc=org`
 
 of object
-
+```
 ou=config
 + ads-directoryServiceId=default
   + ou=partitions
       ads-partitionId=example
 
 to ads-partitionId=dcm4che
-![Screenshot](/screenshots/apache-directory-configration)
-![Please look at the image how to change value in apache directory](screenshots/change-apache-directory-values.png)
+```
+## Please look at image How to add values##
+![Screenshot](/screenshots/apache-directory-configration.png)
 
