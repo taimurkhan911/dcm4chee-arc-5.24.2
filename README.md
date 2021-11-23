@@ -43,4 +43,19 @@ dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/apacheds/dcm4che
 dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/apacheds/dcm4chee-archive.ldif
 dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql/ldap/apacheds/dcm4chee-archive-ui.ldif
 ```
+#### Step 7 
+One may modify the default Directory Base DN dc=example,dc=com by changing the value of attribute
+
+ads-partitionsuffix: dc=dcm4che,dc=org`
+
+of object
+
+ou=config
++ ads-directoryServiceId=default
+  + ou=partitions
+      ads-partitionId=example
+
+to ads-partitionId=dcm4che
+![Screenshot](/screenshots/change-apache-directory-values.png)
+![Please look at the image how to change value in apache directory](screenshots/change-apache-directory-values.png)
 
