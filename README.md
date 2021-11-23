@@ -56,6 +56,6 @@ ou=config
       ads-partitionId=example
 
 to ads-partitionId=dcm4che
-![Screenshot](/screenshots/change-apache-directory-values.png)
+![Screenshot](/screenshots/apache-directory-configration)
 ![Please look at the image how to change value in apache directory](screenshots/change-apache-directory-values.png)
 
