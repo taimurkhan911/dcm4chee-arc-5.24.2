@@ -1,0 +1,35 @@
+Oviyam 2.8.1 - Change log
+
+Bugs :
+
+  OV-240 After using the Cobb's angle tool, other measurement tools requires multiple clicks to select
+
+  OV-237 Unable to reposition or extend angle measurement drawn
+
+  OV-234 Series list context menu on image is not shown
+
+Improvements : 
+
+  OV-238 Provision to enable/disable windowing tool selection on load
+
+  OV-236 Retrieving pixel data progress bar shown on the center of the image may be moved out of the image box
+
+  OV-235 Expand/adjust series pane length dynamically to improve series list visibility when there is no archived studies available for that patient
+
+Tasks :
+
+  OV-239 Release 2.8.1
+
+
+Note : 
+    For dcm4chee-arc-light server, the WADO context should be "SERVER-CONTEXT/aets/AETITLE/wado". 
+    Eg. dcm4chee-arc/aets/DCM4CHEE/wado
+
+
+  
+For Tomcat Server:
+
+1. Copy all jar files from "tomcat" folder into Tomcat "Lib" folder.
+2. Uncomment the user roles,user names in "conf/tomcat-users.xml" file. 
+3. Add new user role, user name for "admin".
+4. Deploy Oviyam2.war into Tomcat "webapps" folder.
