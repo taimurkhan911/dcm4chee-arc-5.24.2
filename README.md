@@ -123,7 +123,13 @@ goto the above page and import the following 2 files in it.
 
 dcm4chee-arc-5.24.2-installation\dcm4chee-arc-5.24.2-mysql\deploy
 
-### Step 15
+### Step 15 
+ run the follwing command inside dcm4che\bin\ binnery to import data
+```
+C:\dcm4che-5.24.0\bin>storescu.bat -c DCM4CHEE@localhost:11112 "D:\FAKHOURY-ELIAS-E_RO20517_MR_2021-12-08 09-00-28_44289_202112081638989689_dcm (1)"
+```
+
+### Step 16
 Install ApacheTomCat and oviyam2.
 - Run the dcm4chee-arc-5.24.2-installation\apache-tomcat-8.5.71.exe to install the TomCat
 - Copy all files inside **dcm4chee-arc-5.24.2-installation\Oviyam-2.8.1-bin\tomcat** and paste inside C:\Program Files\Apache Software Foundation\Tomcat 8.5\lib 
