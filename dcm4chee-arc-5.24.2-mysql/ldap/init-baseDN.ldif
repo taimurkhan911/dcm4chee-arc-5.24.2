@@ -1,8 +1,0 @@
-version: 1
-
-dn: dc=dcm4che,dc=org
-objectClass: top
-objectClass: dcObject
-objectClass: organization
-o: dcm4che.org
-dc: dcm4che
