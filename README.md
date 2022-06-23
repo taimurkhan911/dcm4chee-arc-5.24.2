@@ -140,7 +140,6 @@ Install ApacheTomCat and oviyam2.
 .![image](/screenshots/oviyam2-config.png)
 
 #### Please NOTE
- run the follwing command inside dcm4che\bin\ binnery to import data
 ```
 Please copy "dcm4che-5.24.0-bin" to C: and rename to dcm4che-5.24.0
 "wildfly-copy" copy to D: and rename to wildfly
