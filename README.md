@@ -100,7 +100,7 @@ Now Copy **wildfly** directory from **dcm4chee-arc-5.24.2-installation** and pla
 Then change the database connection in C:\wildfly\standalone\configuration\dcm4chee-arc.xml in the following lines if req
 ```
 <datasource jndi-name="java:/PacsDS" pool-name="PacsDS" statistics-enabled="true">
-                    <connection-url>jdbc:mysql://localhost:3306/sandbox_pacsdb</connection-url>
+                    <connection-url>jdbc:mysql://localhost:3306/sit_pacs</connection-url>
                     <driver>mysql</driver>
                     <security>
                         <user-name>root</user-name>
@@ -139,4 +139,13 @@ Install ApacheTomCat and oviyam2.
 
 .![image](/screenshots/oviyam2-config.png)
 
+#### Please NOTE
+ run the follwing command inside dcm4che\bin\ binnery to import data
+```
+Please copy "dcm4che-5.24.0-bin" to C: and rename to dcm4che-5.24.0
+"wildfly-copy" copy to D: and rename to wildfly
+"Tomcat 8.5 -Copy to Tomcat Apache" copy to Tomcat Apache
+"ext-install" have ext files install it from there
+in My Google Drive Dir with name  "NEW-SERVER-INSTALL" has some files need to be download
+```
 
