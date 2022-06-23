@@ -1,0 +1,98 @@
+10-Jan-2022 01:11:44.736 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 01:11:44.736 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 01:11:48.489 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 01:11:48.489 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 01:11:48.489 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 01:11:48.489 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 01:11:49.141 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 01:11:49.141 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 01:11:49.157 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6d8dac6c')
+10-Jan-2022 02:42:29.875 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 02:42:29.875 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 02:42:33.576 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 02:42:33.576 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 02:42:33.576 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 02:42:33.576 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 02:42:34.208 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 02:42:34.208 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 02:42:34.208 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@59f54574')
+10-Jan-2022 06:52:07.315 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 06:52:07.315 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 06:52:10.953 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 06:52:10.953 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 06:52:10.953 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 06:52:10.953 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 06:52:11.642 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 06:52:11.642 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 06:52:11.643 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@78e4e657')
+10-Jan-2022 07:29:56.679 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 07:29:56.679 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 07:30:00.563 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:30:00.563 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:30:00.563 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:30:00.563 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:30:01.239 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 07:30:01.239 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 07:30:01.240 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7e30af1b')
+10-Jan-2022 07:30:47.695 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 07:30:47.695 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 07:30:51.096 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:30:51.096 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:30:51.096 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:30:51.096 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:30:51.799 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 07:30:51.799 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 07:30:51.799 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4a49c3fd')
+10-Jan-2022 07:31:30.731 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 07:31:30.731 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 07:31:34.335 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:31:34.335 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:31:34.335 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:31:34.335 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:31:35.006 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 07:31:35.006 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 07:31:35.007 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7d58d740')
+10-Jan-2022 07:33:59.179 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 07:33:59.179 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 07:34:02.666 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:34:02.666 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:34:02.666 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:34:02.666 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:34:03.362 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 07:34:03.362 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 07:34:03.362 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@96b8fa7')
+10-Jan-2022 07:35:43.676 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 07:35:43.676 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 07:35:47.434 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:35:47.434 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:35:47.434 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:35:47.434 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 07:35:48.137 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 07:35:48.137 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 07:35:48.137 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@ad4f398')
+10-Jan-2022 10:33:21.349 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+10-Jan-2022 10:33:21.349 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+10-Jan-2022 10:33:21.365 SEVERE [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Servlet [Listener] threw unload() exception
+	javax.servlet.ServletException: Servlet.destroy() for servlet [Listener] threw exception
+		at org.apache.catalina.core.StandardWrapper.unload(StandardWrapper.java:1324)
+		at org.apache.catalina.core.StandardWrapper.stopInternal(StandardWrapper.java:1642)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5455)
+		at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:257)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1443)
+		at org.apache.catalina.core.ContainerBase$StopChild.call(ContainerBase.java:1432)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+		at java.base/java.lang.Thread.run(Thread.java:834)
+	Caused by: java.lang.NullPointerException
+		at in.raster.oviyam.servlet.ListenerServlet.destroy(ListenerServlet.java:157)
+		at org.apache.catalina.core.StandardWrapper.unload(StandardWrapper.java:1313)
+		... 10 more
+10-Jan-2022 10:33:25.070 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.jsp] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 10:33:25.070 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.html] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 10:33:25.070 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [*.do] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 10:33:25.070 SEVERE [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/oviyam] only the HTTP methods [POST GET] are covered. All other methods are uncovered.
+10-Jan-2022 10:33:25.742 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+10-Jan-2022 10:33:25.742 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+10-Jan-2022 10:33:25.742 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4b146c89')

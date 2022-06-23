@@ -1,0 +1,56 @@
+[2022-01-04 02:07:13] [info]  [ 1644] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 02:07:13] [info]  [ 1644] Installing service 'Tomcat8' name 'Apache Tomcat 8.5 Tomcat8'.
+[2022-01-04 02:07:13] [info]  [ 1644] Service 'Tomcat8' installed.
+[2022-01-04 02:07:14] [info]  [ 1644] Apache Commons Daemon procrun finished.
+[2022-01-04 02:07:14] [info]  [  608] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 02:07:14] [info]  [  608] Updating service...
+[2022-01-04 02:07:14] [info]  [  608] Updated service 'Tomcat8'.
+[2022-01-04 02:07:15] [info]  [  608] Finished updating service 'Tomcat8'.
+[2022-01-04 02:07:15] [info]  [  608] Apache Commons Daemon procrun finished.
+[2022-01-04 02:07:15] [info]  [ 1792] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 02:07:15] [info]  [ 1792] Updating service...
+[2022-01-04 02:07:15] [info]  [ 1792] Updated service 'Tomcat8'.
+[2022-01-04 02:07:15] [info]  [ 1792] Finished updating service 'Tomcat8'.
+[2022-01-04 02:07:15] [info]  [ 1792] Apache Commons Daemon procrun finished.
+[2022-01-04 02:07:15] [info]  [ 1596] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 02:07:15] [info]  [ 1596] Updating service...
+[2022-01-04 02:07:15] [info]  [ 1596] Updated service 'Tomcat8'.
+[2022-01-04 02:07:15] [info]  [ 1596] Finished updating service 'Tomcat8'.
+[2022-01-04 02:07:15] [info]  [ 1596] Apache Commons Daemon procrun finished.
+[2022-01-04 02:07:15] [info]  [ 3576] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 02:07:15] [info]  [ 3576] Updating service...
+[2022-01-04 02:07:15] [info]  [ 3576] Updated service 'Tomcat8'.
+[2022-01-04 02:07:15] [info]  [ 3576] Finished updating service 'Tomcat8'.
+[2022-01-04 02:07:15] [info]  [ 3576] Apache Commons Daemon procrun finished.
+[2022-01-04 02:07:18] [info]  [ 4032] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 02:07:18] [info]  [ 4032] Running Service 'Tomcat8'...
+[2022-01-04 02:07:18] [info]  [ 2224] Starting service...
+[2022-01-04 02:07:19] [info]  [ 2224] Service started in 1343 milliseconds.
+[2022-01-04 02:18:38] [info]  [ 2456] Stopping service...
+[2022-01-04 02:18:39] [info]  [ 2456] Service stop thread completed.
+[2022-01-04 02:18:39] [info]  [ 4032] Run service finished.
+[2022-01-04 02:18:39] [info]  [ 4032] Apache Commons Daemon procrun finished.
+[2022-01-04 02:18:39] [info]  [ 3448] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 02:18:39] [info]  [ 3448] Running Service 'Tomcat8'...
+[2022-01-04 02:18:39] [info]  [ 2720] Starting service...
+[2022-01-04 02:18:40] [info]  [ 2720] Service started in 1359 milliseconds.
+[2022-01-04 03:52:44] [info]  [ 5996] Stopping service...
+[2022-01-04 03:52:45] [info]  [ 5996] Service stop thread completed.
+[2022-01-04 03:52:45] [info]  [ 3448] Run service finished.
+[2022-01-04 03:52:45] [info]  [ 3448] Apache Commons Daemon procrun finished.
+[2022-01-04 03:52:45] [info]  [ 5856] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 03:52:45] [info]  [ 5856] Running Service 'Tomcat8'...
+[2022-01-04 03:52:45] [info]  [ 3492] Starting service...
+[2022-01-04 03:52:47] [info]  [ 3492] Service started in 1340 milliseconds.
+[2022-01-04 03:58:21] [info]  [ 5420] Stopping service...
+[2022-01-04 03:58:22] [info]  [ 5420] Service stop thread completed.
+[2022-01-04 03:58:22] [info]  [ 5856] Run service finished.
+[2022-01-04 03:58:22] [info]  [ 5856] Apache Commons Daemon procrun finished.
+[2022-01-04 07:33:32] [info]  [ 2012] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-01-04 07:33:32] [info]  [ 2012] Running Service 'Tomcat8'...
+[2022-01-04 07:33:32] [info]  [ 4792] Starting service...
+[2022-01-04 07:33:34] [info]  [ 4792] Service started in 1375 milliseconds.
+[2022-01-10 01:11:44] [info]  [ 5504] Stopping service...
+[2022-01-10 01:11:45] [info]  [ 5504] Service stop thread completed.
+[2022-01-10 01:11:45] [info]  [ 2012] Run service finished.
+[2022-01-10 01:11:45] [info]  [ 2012] Apache Commons Daemon procrun finished.
