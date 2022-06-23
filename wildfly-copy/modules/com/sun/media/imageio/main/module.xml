@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns="urn:jboss:module:1.1" name="com.sun.media.imageio">
+    <resources>
+        <resource-root path="jai_imageio-1.2-pre-dr-b04.jar"/>
+        <resource-root path="clibwrapper_jiio-1.2-pre-dr-b04.jar"/>
+    </resources>
+
+    <dependencies>
+        <module name="javax.api"/>
+        <module name="sun.jdk"/>
+    </dependencies>
+</module>

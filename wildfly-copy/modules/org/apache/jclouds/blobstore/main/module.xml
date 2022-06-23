@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns="urn:jboss:module:1.1" name="org.apache.jclouds.blobstore">
+  <resources>
+    <resource-root path="atmos-2.3.0.jar"/>
+    <resource-root path="aws-s3-2.3.0.jar"/>
+    <resource-root path="azureblob-2.3.0.jar"/>
+    <resource-root path="b2-2.3.0.jar"/>
+    <resource-root path="base64-2.3.8.jar"/>
+    <resource-root path="filesystem-2.3.0.jar"/>
+    <resource-root path="googlecloud-2.3.0.jar"/>
+    <resource-root path="google-cloud-storage-2.3.0.jar"/>
+    <resource-root path="java-xmlbuilder-1.2.jar"/>
+    <resource-root path="jclouds-allblobstore-2.3.0.jar"/>
+    <resource-root path="jclouds-blobstore-2.3.0.jar"/>
+    <resource-root path="oauth-2.3.0.jar"/>
+    <resource-root path="openstack-keystone-2.3.0.jar"/>
+    <resource-root path="openstack-swift-2.3.0.jar"/>
+    <resource-root path="rackspace-cloudfiles-2.3.0.jar"/>
+    <resource-root path="rackspace-cloudfiles-uk-2.3.0.jar"/>
+    <resource-root path="rackspace-cloudfiles-us-2.3.0.jar"/>
+    <resource-root path="rackspace-cloudidentity-2.3.0.jar"/>
+    <resource-root path="s3-2.3.0.jar"/>
+    <resource-root path="sts-2.3.0.jar"/>
+  </resources>
+
+  <dependencies>
+    <module name="org.apache.jclouds.core"/>
+    <module name="org.slf4j"/>
+    <module name="javax.api"/>
+    <module name="javax.annotation.api"/>
+    <module name="javax.inject.api"/>
+    <module name="javax.ws.rs.api"/>
+    <module name="javax.xml.bind.api"/>
+    <module name="com.google.guava"/>
+  </dependencies>
+</module>
