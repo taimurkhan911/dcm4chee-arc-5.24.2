@@ -1,0 +1,11 @@
+version: 1
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2022-01-04T10:04:14.107
+dn: dc=dcm4che,dc=org
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+o: dcm4che.org
+dc: dcm4che

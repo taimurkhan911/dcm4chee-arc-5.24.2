@@ -1,0 +1,38 @@
+version: 1
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2022-01-04T10:05:03.143
+dn: cn=DICOM Configuration,dc=dcm4che,dc=org
+objectClass: dicomConfigurationRoot
+cn: DICOM Configuration
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2022-01-04T10:05:03.159
+dn: cn=Devices,cn=DICOM Configuration,dc=dcm4che,dc=org
+objectClass: dicomDevicesRoot
+cn: Devices
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2022-01-04T10:05:03.190
+dn: cn=Unique AE Titles Registry,cn=DICOM Configuration,dc=dcm4che,dc=org
+objectClass: dicomUniqueAETitlesRegistryRoot
+cn: Unique AE Titles Registry
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2022-01-04T10:05:03.221
+dn: cn=Unique HL7 Application Names Registry,cn=DICOM Configuration,dc=dcm4c
+ he,dc=org
+objectClass: hl7UniqueApplicationNamesRegistryRoot
+cn: Unique HL7 Application Names Registry
+
+#!RESULT OK
+#!CONNECTION ldap://localhost:10389
+#!DATE 2022-01-04T10:05:03.237
+dn: cn=Unique Web Application Names Registry,cn=DICOM Configuration,dc=dcm4c
+ he,dc=org
+objectClass: dcmUniqueWebAppNamesRegistryRoot
+cn: Unique Web Application Names Registry
