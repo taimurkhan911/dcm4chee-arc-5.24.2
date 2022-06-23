@@ -146,5 +146,7 @@ Please copy "dcm4che-5.24.0-bin" to C: and rename to dcm4che-5.24.0
 "Tomcat 8.5 -Copy to Tomcat Apache" copy to Tomcat Apache
 "ext-install" have ext files install it from there
 in My Google Drive Dir with name  "NEW-SERVER-INSTALL" has some files need to be download
+run  vcredist_x64.exe  afere wanp insall
+You may need to create Temp file in C:\Windows\System32\config\systemprofile\AppData\Local\Temp
 ```
 
